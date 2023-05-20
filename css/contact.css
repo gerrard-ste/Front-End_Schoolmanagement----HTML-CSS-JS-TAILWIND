@@ -107,4 +107,7 @@ input, textarea{
     margin-top: 1.5rem;
     
 }
+textarea{
+    resize: none;
+}
 
